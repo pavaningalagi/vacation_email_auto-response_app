@@ -8,7 +8,7 @@ login.onclick = ()=>{
     form.setAttribute('action',url);
 
     let params = {
-        'client_id':"734587669626-akevlpl16ukr6fmtg5um154oiagc2rof.apps.googleusercontent.com",
+        'client_id':"",
         'redirect_uri':"http://127.0.0.1:5500/mailbox.html",
         'response_type':"token",
         'scope':"https://mail.google.com/",
